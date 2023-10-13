@@ -1,0 +1,1 @@
+autolevel_51("rice.png");
